@@ -204,4 +204,4 @@ This repository serves as the official landing page for Hollow Knight: Silksong.
 **Get the most recent version of Hollow Knight: Silksong today!**
 
 ---
-**Last updated:** 2026-11-12 23:14:21 UTC
+**Last updated:** 2026-11-13 05:04:37 UTC
